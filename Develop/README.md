@@ -1,7 +1,7 @@
-# dfs
+# Test
 
   ## Description:
-  dsf
+  Testing/video
 
    ## Table of Contents
 * [Installation](#installation)
@@ -13,7 +13,7 @@
   undefined
 
   ## Usage:
-  sdf
+  For development purposes
 
   ## Contributors:
   undefined
@@ -21,6 +21,6 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Github Username:  dsf
+  ## Github Username: zdjeffers
 
-  ## Email: sdfds
+  ## Email: zdjeffers@gmail.com
