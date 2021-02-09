@@ -31,11 +31,9 @@ const questions = [
         message: "Tests Run:"
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: "Licenses used:",
-        choices: ["MIT", "ISC", "Apache 2.0", "MPL-2.0"]
-        //Need to fix this, choices do not show up
+        choices: ["None", "MIT", "ISC", "Apache 2.0", "MPL 2.0"]
     },
     {
         type: 'input',
